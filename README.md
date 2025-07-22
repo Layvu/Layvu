@@ -13,12 +13,13 @@
 
 ### 📫 Связаться со мной:
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-D14836?style=flat&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/aleksei-zemskii)](https://www.linkedin.com/in/aleksei-zemskii)
 [![Telegram Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white&link=https://t.me/ZemskiyA/)](https://t.me/ZemskiyA)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white&link=mailto:zemskyalexey.writer@mail.ru)](mailto:zemskyalexey.writer@mail.ru)
 
-
 - Telegram: [@ZemskiyA](https://t.me/ZemskiyA)
 - Email: [zemskyalexey.writer@mail.ru](mailto:zemskyalexey.writer@mail.ru)
+- LinkedIn: [aleksei-zemskii](https://www.linkedin.com/in/aleksei-zemskii/)
 - Подробнее о проектах: [resume](https://drive.google.com/file/d/1ZUKdYclL2QHylkBtKBquJn5jIeZEzSKO/view?usp=sharing)
 ---
 
